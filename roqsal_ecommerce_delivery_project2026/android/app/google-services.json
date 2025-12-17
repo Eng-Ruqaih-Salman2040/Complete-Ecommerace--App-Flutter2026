@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "119179858551",
+    "project_id": "roqsalecommerce2026-6ce2c",
+    "storage_bucket": "roqsalecommerce2026-6ce2c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119179858551:android:3a5da8e9735c9a73dfac72",
+        "android_client_info": {
+          "package_name": "com.example.roqsal_ecommerce_delivery_project2026"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBIt4v0SxqV2FIKhRjy1Sla74axZP7lDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119179858551:android:b4f8bdf1f3688904dfac72",
+        "android_client_info": {
+          "package_name": "com.example.roqsal_ecommerce_project2026"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBIt4v0SxqV2FIKhRjy1Sla74axZP7lDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
